@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Heebo';
+    src: url('Heebo-Regular.eot');
+    src: url('Heebo-Regular.eot?#iefix') format('embedded-opentype'), url('Heebo-Regular.woff2') format('woff2'), url('Heebo-Regular.woff') format('woff'), url('Heebo-Regular.ttf') format('truetype'), url('Heebo-Regular.svg#Heebo-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* //////////////////////////////////////////////////////////////////// */
+
+@font-face {
+    font-family: 'Trirong';
+    src: url('Trirong-Regular.eot');
+    src: url('Trirong-Regular.eot?#iefix') format('embedded-opentype'), url('Trirong-Regular.woff2') format('woff2'), url('Trirong-Regular.woff') format('woff'), url('Trirong-Regular.ttf') format('truetype'), url('Trirong-Regular.svg#Trirong-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
